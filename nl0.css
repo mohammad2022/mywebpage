@@ -3,7 +3,7 @@ ul {list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #00AEEF; width:100%; padding-right:10px;}
+  background-color: #00aeef; width:100%; padding-right:10px;}
 li {
   float: right;
 }
@@ -19,8 +19,10 @@ li a:hover {
   background-color: #048ec2;
 }
 p {line-height:1.5;}
-#i1 {float:right;margin:10px;height:450px;margin-left:20px;margin-top:20px;}
+#i1 {float:right;margin-bottom:20px;height:450px;margin-left:20px;margin-top:20px;margin-right:0px;}
 .odd {background-color:#00AEEF;}
 .even {background-color:#baebf5;}
-table {border:1px solid white;border-collapse:collapse;}
+table {border:1px solid white;border-collapse:collapse;width:100%;}
 td {padding:5px 150px;border:none;color:black;}
+footer {background-color:#00aeef;color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;}
+div {font-size:30px;padding:10px;}
