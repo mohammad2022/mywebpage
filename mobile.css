@@ -14,7 +14,7 @@ li a {
   text-align: center;
   padding: 10px;
   text-decoration: none;
-font-size:10px;
+  font-size:20px;
 }
 li a:hover {
   background-color: #048ec2;
@@ -27,4 +27,4 @@ table {border:1px solid white;border-collapse:collapse;width:100%;}
 td {padding:5px 50px;border:none;color:black;}
 footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;width:100%;}
 span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
-#search{padding:1px;float:left;padding-left:1px;font-size:70%;}
+#search{padding:1px;float:left;padding-left:1px;font-size:20px;}
