@@ -19,7 +19,7 @@ li a:hover {
   background-color: #048ec2;
 }
 p {line-height:1.5;}
-#i1 {float:right;margin-bottom:20px;margin-top:20px;width:device-width;}
+#i1 {float:right;margin:10px 0px;width:device-width;}
 .odd {background-color:#00AEEF;}
 .even {background-color:#baebf5;}
 table {border:1px solid white;border-collapse:collapse;width:100%;}
