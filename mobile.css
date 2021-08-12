@@ -25,4 +25,4 @@ p {line-height:1.5;}
 table {border:1px solid white;border-collapse:collapse;width:100%;}
 td {padding:5px 50px;border:none;color:black;}
 footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;width:100%;}
-div {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;width:100%;}
+span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;width:100%;}
