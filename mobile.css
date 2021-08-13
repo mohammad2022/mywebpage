@@ -27,6 +27,7 @@ table {border:1px solid white;border-collapse:collapse;width:100%;}
 td {padding:5px 50px;border:none;color:black;}
 footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;width:100%;}
 span {font-size:30px;padding:10px;background-color:rgb(0,0,40);color:white;}
-#search{padding:5px;float:left;padding-left:5px;}
-#s , #searchsubmit{padding:5px;text-align:center;}
+li #search{padding:1px;float:left;}
+li #searchsubmit{padding:1px;text-align:center;}
+li #s{padding:1px;text-align:center;}
 h1{font-size:20px;}
