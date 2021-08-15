@@ -1,11 +1,11 @@
 body {
     direction:rtl;
 }
-img{
+#scoobwhere{
     width:100%;
 }
 
-img {float:right;margin:10px;}
+#logo{float:right;margin:10px;}
 ul {list-style-type: none;
   margin: 0;
   padding: 0;
