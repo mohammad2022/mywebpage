@@ -30,6 +30,3 @@ footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:cent
 span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
 #search{padding:10px;float:left;padding-left:15px;}
 #s , #searchsubmit{padding:5px;text-align:center;}
-fieldset{
-width:90%;
-}
