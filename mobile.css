@@ -24,11 +24,11 @@ p {line-height:1.5;}
 .odd {background-color:#00AEEF;}
 .even {background-color:#baebf5;}
 table {border:1px solid white;border-collapse:collapse;width:100%;}
-td {padding:5px 50px;border:none;color:black;}
+td {padding:5px 50px;border:none;color:black;font-family:yekan;}
 footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;width:100%;}
 span {font-size:30px;padding:10px;background-color:rgb(0,0,40);color:white;}
-#search{padding:10px;float:left;}
-#s , #searchsubmit{padding:5px;text-align:center;}
+#search{padding:10px;float:left;font-family:yekan;}
+#s , #searchsubmit{padding:5px;text-align:center;font-family:yekan;}
 h1{font-size:20px;}
 @font-face {
     font-family: 'yekan';
