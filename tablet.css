@@ -28,7 +28,13 @@ td {padding:5px 50px;border:none;color:black;font-family:yekan;}
 footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;width:100%;}
 span {font-size:30px;padding:10px;background-color:rgb(0,0,40);color:white;}
 #search{padding:10px;float:left;font-family:yekan;}
-#s , #searchsubmit{padding:5px;text-align:center;font-family:yekan;}
+
+#s , #searchsubmit{
+padding:5px;
+text-align:center;
+font-family:yekan;
+}
+
 @font-face {
     font-family: 'yekan';
     src: url('Yekan.eot');
@@ -39,10 +45,22 @@ span {font-size:30px;padding:10px;background-color:rgb(0,0,40);color:white;}
     font-style: normal;
     font-weight: normal;
 }
+
 body{
  font-family:yekan; 
 }
-table tr td a button{font-family:yekan;}
+
+table tr td a button{
+font-family:yekan;
+}
+
 td a{
-text-decoration:none;color:white;border:1px solid green;background-color:green; padding:5px;border-radius:5px;font-size:20px;
+text-decoration:none;
+color:white;
+border:1px solid green;
+background-color:green;
+ padding:5px;
+border-radius:5px;
+font-size:20px;
+margin:1px;
 }
