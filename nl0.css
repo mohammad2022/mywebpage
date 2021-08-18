@@ -1,9 +1,18 @@
-img {float:right;margin:10px;}
-ul {list-style-type: none;
+img {
+float:right;
+margin:10px;
+}
+
+ul {
+list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #00aeef; width:100%; padding-right:10px;}
+  background-color: #00aeef;
+width:100%;
+padding-right:10px;
+}
+
 li {
   float: right;
 }
@@ -15,19 +24,74 @@ li a {
   padding: 16px;
   text-decoration: none;
 }
+
 li a:hover {
   background-color: #048ec2;
 }
-p {line-height:1.5;}
-#i1 {float:right;margin-bottom:20px;height:500px;margin-left:20px;margin-top:0px;margin-right:0px;}
-.odd {background-color:#00AEEF;}
-.even {background-color:#baebf5;}
-table {border:1px solid white;border-collapse:collapse;width:100%;}
-td {padding:5px 50px;border:none;color:black;font-family:yekan;}
-footer {background-color:rgb(0,0,51);color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;}
-span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
-#search{padding:10px;float:left;padding-left:15px;font-family:yekan;}
-#s , #searchsubmit{padding:5px;text-align:center;font-family:yekan;}
+
+p {
+line-height:1.5;
+}
+
+#i1 {
+float:right;
+margin-bottom:20px;
+height:500px;
+margin-left:20px;
+margin-top:0px;
+margin-right:0px;
+}
+
+.odd {
+background-color:#00AEEF;
+}
+
+.even {
+background-color:#baebf5;
+}
+
+table {
+border:1px solid white;
+border-collapse:collapse;
+width:100%;
+}
+
+td {
+padding:5px 50px;
+border:none;
+color:black;
+font-family:yekan;
+}
+
+footer {
+background-color:rgb(0,0,51);
+color:white;
+margin-top:10px;
+text-align:center;
+padding:10px;
+font-size:20px;
+}
+
+span {
+font-size:30px;
+padding:10px;
+background-color:rgb(0,0,51);
+color:white;
+}
+
+#search{
+padding:10px;
+float:left;
+padding-left:15px;
+font-family:yekan;
+}
+
+#s , #searchsubmit{
+padding:5px;
+text-align:center;
+font-family:yekan;
+}
+
 @font-face {
     font-family: 'yekan';
     src: url('Yekan.eot');
@@ -38,10 +102,22 @@ span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
     font-style: normal;
     font-weight: normal;
 }
+
 body{
  font-family:yekan; 
 }
-table tr td a button{font-family:yekan;}
+
+table tr td a button{
+font-family:yekan;
+}
+
 td a{
-text-decoration:none;color:white;border:1px solid green;background-color:green; padding:5px;border-radius:5px;font-size:20px;
+text-decoration:none;
+color:white;
+border:1px solid green;
+background-color:green;
+padding:5px;
+border-radius:5px;
+font-size:20px;
+margin:1px;
 }
