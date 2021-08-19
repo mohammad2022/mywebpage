@@ -36,7 +36,7 @@ line-height:1.5;
 #i1 {
 float:right;
 margin-bottom:20px;
-height:500px;
+height:530px;
 margin-left:20px;
 margin-top:0px;
 margin-right:0px;
@@ -118,6 +118,5 @@ border:1px solid green;
 background-color:green;
 padding:5px;
 border-radius:5px;
-font-size:20px;
-margin:1px;
+font-size:15px;
 }
