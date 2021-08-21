@@ -25,11 +25,40 @@ li a {
 li a:hover {
   background-color: #048ec2;
 }
-p {line-height:1.5;}
-footer {background-color:#00AEEF;color:white;margin-top:10px;text-align:center;padding:10px;font-size:20px;}
-span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
-#search{padding:10px;float:left;padding-left:15px;font-family:yekan;}
-#s , #searchsubmit{padding:5px;text-align:center;font-family:yekan;}
+
+p {
+line-height:1.5;
+}
+
+footer {
+background-color:#00AEEF;
+color:white;
+margin-top:10px;
+text-align:center;
+padding:10px;
+font-size:20px;
+}
+
+span {
+font-size:30px;
+padding:10px;
+background-color:#00AEEF;
+color:white;
+}
+
+#search{
+padding:10px;
+float:left;
+padding-left:15px;
+font-family:yekan;
+}
+
+#s , #searchsubmit{
+padding:5px;
+text-align:center;
+font-family:yekan;
+}
+
 @font-face {
     font-family: 'yekan';
     src: url('Yekan.eot');
@@ -43,5 +72,11 @@ span {font-size:30px;padding:10px;background-color:rgb(0,0,51);color:white;}
 body{
  font-family:yekan; 
 }
-fieldset h2 a{text-decoration:none;color:black;}
-fieldset a button{font-family:yekan;}
+fieldset h2 a{
+text-decoration:none;
+color:black;
+}
+
+fieldset a button{
+font-family:yekan;
+}
